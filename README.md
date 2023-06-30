@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on [to-do](https://github.com/Vasya-556/to-do) -->
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **React, Django**
 
 - 📫 How to reach me **vkobrin556@gmail.com**
 
