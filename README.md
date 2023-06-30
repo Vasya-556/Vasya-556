@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasya-556&label=Profile%20views&color=0e75b6&style=flat" alt="vasya-556" /> </p>
 
-- 🔭 I’m currently working on [to-do](https://github.com/Vasya-556/to-do)
+<!--- 🔭 I’m currently working on [to-do](https://github.com/Vasya-556/to-do) -->
 
 - 🌱 I’m currently learning **ASP.NET**
 
