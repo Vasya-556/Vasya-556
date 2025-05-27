@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vasya-556/Vasya-556/output/snake.svg" alt="Snake animation" />
-
 ###
