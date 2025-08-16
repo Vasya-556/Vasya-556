@@ -9,11 +9,14 @@
 
 ###
 
-<img align="right" height="150" src="https://linuxh2o.com/wp-content/uploads/2019/07/Having-fun-with-terminal-using-ASCII-tool.gif"  />
+<div align="center">
+  <img align="center" height="150" src="https://linuxh2o.com/wp-content/uploads/2019/07/Having-fun-with-terminal-using-ASCII-tool.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <h3>Tech stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
