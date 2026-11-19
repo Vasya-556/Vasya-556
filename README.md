@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://github.com/Vasya-556">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vasya-556&layout=compact&langs_count=8&theme=algolia"/>
+  [//]: # (<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vasya-556&layout=compact&langs_count=8&theme=algolia"/>)
   <img height="180em" src="https://raw.githubusercontent.com/Vasya-556/Vasya-556/output/snake.svg" alt="Snake animation" />
 </a>
 </p>
